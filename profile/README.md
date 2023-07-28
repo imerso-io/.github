@@ -5,9 +5,9 @@ var inoBrasil = {
   desc: "Developing, improving, innovating and idealizing things. Focus on technology.",
   location: "Brazil",
   technologies: {
-        code: [Javascript, HTML, CSS, Java],
+        code: [Javascript, Java, Python, HTML, CSS],
         tools: [NodeJS, MySQL]
   },
-  developers: [@lucasgianine, @KakauFelix, @juliaRufino, @DanielRRios]
-}
+  developers: [@lucasgianine, @pedro-l0pes, @KakauFelix, @juliaRufino, @DanielRRios]
+};
 ```
